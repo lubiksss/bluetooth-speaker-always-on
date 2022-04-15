@@ -1,0 +1,24 @@
+{
+  "name": "bluetooth-speaker-always-on",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubiksss/bluetooth-speaker-always-on.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lubiksss/bluetooth-speaker-always-on/issues"
+  },
+  "homepage": "https://github.com/lubiksss/bluetooth-speaker-always-on#readme",
+  "dependencies": {
+    "play-sound": "^1.1.5",
+    "text-to-mp3": "^1.0.4"
+  }
+}
